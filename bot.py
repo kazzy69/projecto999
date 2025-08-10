@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 # Carrega variáveis de ambiente
 load_dotenv()
-TOKEN = os.getenv('7999272722:AAFOpFgMJLsn8Jq29yRenwVhXzxCysQkG2g')
+TOKEN = os.getenv('8027673333:AAEPW2LZYVTVZrmauZQDrb1KZveXEEm9PfE')
 UPLOAD_FOLDER = "videos"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
